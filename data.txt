@@ -1,1 +1,1 @@
-wesleydeano213@gmail.com,EREmi234,CUSTOMER
+example@gmail.com,"Password",CUSTOMER ( Role )

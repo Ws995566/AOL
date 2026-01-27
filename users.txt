@@ -1,0 +1,4 @@
+wesley.deano@binus.ac.id,ERExmi23,ADMIN
+user@gmail.com,1234,CUSTOMER
+hansajg@gmail.com,12348765,CUSTOMER
+zaidan,12345678,CUSTOMER
